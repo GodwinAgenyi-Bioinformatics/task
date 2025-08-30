@@ -100,4 +100,4 @@ conda install bcftools
 conda install fastp
 
 # to install multiqc 
-14.	conda install multiqc
+conda install multiqc
