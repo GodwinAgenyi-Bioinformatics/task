@@ -1,6 +1,4 @@
-
-bioinformatics task
-	echo AGENYI_GODWIN
+echo AGENYI_GODWIN
  # to print name
 	mkdir AGENYI_GODWIN
  # to create folder titled name
